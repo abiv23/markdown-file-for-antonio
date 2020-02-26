@@ -54,12 +54,6 @@
 
    Initial research suggests this is due to external links to these embedded pages, 301 redirecting the poorer user result page to the prime direction 'from to' page will result in a better user experience and more 'rank juice' for the core content.
 
-## Why System1/MapQuest should hire me
-
-   You get Director level SEO/SEM knowledge and an eager to grow Front-End Web Developer at a cost below market.
-
-   Money talks: I turned down an offer for a six figure compensation package earlier this month to run Tech SEO for a Denver agency, I can share the offer letter if needed.  I am commited to growing my skillset and am looking for the right environment to do so.
-
 ## Why I want to work for System1/MapQuest
 
    I have grown traffic here in the past as Sr Product Manager of SEO.  I know the product and believe I can help it grow again. I would also have the opportunity to work with people who have mentored me and shown interest in helping me achieve my goals of becoming a full-stack engineer on an enterprise level web app.
