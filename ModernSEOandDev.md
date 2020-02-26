@@ -1,6 +1,6 @@
 # SEO and Development skillset for Modern Technical SEO
 
-## Modern SEO and Google
+## Why Front End Development and SEO?
 
 1. RankBrain.
 
