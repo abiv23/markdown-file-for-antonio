@@ -26,7 +26,7 @@
 
 1. Improving pagespeed.
 
-   DoubleClick by Google found [53% of mobile site visits were abandoned if a page took longer than 3 seconds to load.](https://developers.google.com/web/fundamentals/performance/why-performance-matters).
+   DoubleClick by Google found [53% of mobile site visits were abandoned if a page took longer than 3 seconds to load.](https://developers.google.com/web/fundamentals/performance/why-performance-matters)
 
    At Zicasso I worked with a team of two other developers to change our PSI score from a 50 to a 99.
 
