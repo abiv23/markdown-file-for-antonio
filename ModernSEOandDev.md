@@ -56,4 +56,4 @@
 
 ## Why I want to work for System1/MapQuest
 
-   I have grown traffic here in the past as Sr Product Manager of SEO.  I know the product and believe I can help it grow again. I would also have the opportunity to work with people who have mentored me and shown interest in helping me achieve my goals of becoming a full-stack engineer on an enterprise level web app.
+   I have grown traffic here in the past as Sr Product Manager of SEO.  I know the product and believe I can help it grow again. I would also have the opportunity to work with people who have mentored me and shown interest in helping me achieve my goal of becoming a full-stack engineer on an enterprise level web app.
